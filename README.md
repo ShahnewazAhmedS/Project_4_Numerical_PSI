@@ -11,7 +11,7 @@ Project assignment for solution of Wave equation, PSI Numerical Methods 2023
 - This read me file
 
 ### Usage:
-- Running all the cells from begin to end will do the trick
+- Running all the cells from beginning to end will do the trick
 
-### Acknowledgements
+### Acknowledgements:
 I didn't collaborate with anyone in this project. 
